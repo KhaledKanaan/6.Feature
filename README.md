@@ -17,7 +17,7 @@ I came with the idea of a speed game, it's about a set of three dots that appear
 
 After finding the idea I started imagining the user interface, it consists of a title on the top, a gaming in the middle and finally a game control section on the bottom which contains a start button, stop button, score, and level selector.
 
-# Building:
+## Building:
 
 I started testing the feasibility of the idea before going through the whole thing. It was very essential for me not to waste any time. 
 So, I started generating some random dots on the screen and testing the click response by incrementing a counter on each click.
@@ -25,7 +25,7 @@ After that I built the user interface.
 Later on, I tried as possible to break my JS code into small specific functions to be used in different locations and for the sake of easy debugging.
 Each time I tried a given functionality, I packaged it in a function with a clear descriptive name and I put it aside to be re-used.
 
-# Debugging:
+## Debugging:
 
 It was easy for me to debug the code as I worked progressively while trying a small piece of code each time and by breaking the whole program into specific functions with clear name.
 In addition, commenting the code was very helpful when coming back another day to continue what I started, it gives a quick insight of what I was thinking when I wrote the logic.
