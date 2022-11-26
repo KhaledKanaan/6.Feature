@@ -1,4 +1,4 @@
-# 6. Website
+# 6. Feature
 ##Founders and Coders project no.6: Feature
 
 --------------------------------------------
